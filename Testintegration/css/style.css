@@ -1,0 +1,148 @@
+
+
+body {
+	width: 100%;
+	margin: auto;
+    padding-top: 70px; 
+    background-color: black;
+    height: 200%;
+
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+    background-color: pink;
+}
+
+.logo1 {
+	color: black;
+	font-size: 177%;
+}
+
+.logo2 {
+	color: orange;
+	font-size: 168%;
+}
+.navbar-brand {
+	color: black;
+
+}
+
+.navbar-inverse {
+	background-color: #DAD710;
+    border-color: #080808;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+	border-radius: 10px;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: fixed;
+	right: 90px;
+	left: 90px;
+	z-index: 1030;
+}
+.navbar {
+	min-height: 58px;
+	top: -14px;
+}
+
+.hero-spacer {
+	margin-top: 117px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #121111;
+	font-size: 150%;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #121111;
+	font-size: 173%;
+}
+
+.navbar-nav > li > a {
+    padding-top: 37px;
+	padding-bottom: -20px;
+	padding-right: 68px;
+	right: -57px;
+}
+
+.navbar-brand {
+	float: left;
+    height: 50px;
+    padding: 35px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.hero-spacer {
+	 margin-top: 8px;
+     padding: 0px;
+     background-color: #574949;
+}
+
+.thumbnail .caption {
+	padding: 9px;
+    color: #F8F8F8;
+}
+
+.thumbnail {
+	background-color: #574949;
+}
+p {
+	color: white;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	border-radius: 0px;
+    margin-left: -194px;
+    margin-right: -118px;
+    background-color: #574949;
+    padding-bottom: 0px;
+    padding-top: 15px;
+}
+
+h8 {
+	color: white;
+}
+
+
+.jumbotronfoot {
+	background-color: white;
+	border-radius: 0px;
+    margin-left: -194px;
+    margin-right: -118px;
+    padding-bottom: 0px;
+    padding-top: 15px;
+}
+
+.texte1 {
+	color:black;
+	font-size: 17px;
+	text-align: left;
+}
+.texteheader {
+	font-size: 12px;
+}
+h4 {
+	color: white;
+}
+
+li {
+	line-height: 50px;
+}
+
+.btn btn-primary btn-large {
+	position: relative;
+	left: 40px;
+}
