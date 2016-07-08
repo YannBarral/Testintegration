@@ -157,3 +157,7 @@ h8 {
 	left: 560px;
 
 }
+
+.navbar-inverse .navbar-brand{
+  font-size: 111%;
+}
